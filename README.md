@@ -1,2 +1,2 @@
 # scripts
-#The was created by Serge 
+#This was created by Serge 
