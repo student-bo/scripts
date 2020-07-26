@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Author:bolan
+Date:july 2020
+
 
 #Description: Script to display system info
 #Author: Serge
